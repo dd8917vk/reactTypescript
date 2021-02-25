@@ -1,0 +1,17 @@
+(electron) Sending uncompressed crash reports is deprecated and will be removed in a future version of Electron. Set { compress: true } to opt-in to the new behavior. Crash reports will be uploaded gzipped, which most crash reporting servers support.
+[90m[main 2021-02-25T00:13:36.998Z][0m update#setState idle
+bash: cannot set terminal process group (-1): Inappropriate ioctl for device
+bash: no job control in this shell
+(node:5923) electron: The default of contextIsolation is deprecated and will be changing from false to true in a future release of Electron.  See https://github.com/electron/electron/issues/23506 for more information
+(node:5986) Electron: Loading non-context-aware native module in renderer: '/usr/share/code/resources/app/node_modules.asar.unpacked/vscode-sqlite3/build/Release/sqlite.node'. This is deprecated, see https://github.com/electron/electron/issues/18397.
+(node:5986) Electron: Loading non-context-aware native module in renderer: '/usr/share/code/resources/app/node_modules.asar.unpacked/node-pty/build/Release/pty.node'. This is deprecated, see https://github.com/electron/electron/issues/18397.
+(node:5986) Electron: Loading non-context-aware native module in renderer: '/usr/share/code/resources/app/node_modules.asar.unpacked/spdlog/build/Release/spdlog.node'. This is deprecated, see https://github.com/electron/electron/issues/18397.
+(node:5923) electron: The default of contextIsolation is deprecated and will be changing from false to true in a future release of Electron.  See https://github.com/electron/electron/issues/23506 for more information
+(node:6334) Electron: Loading non-context-aware native module in renderer: '/usr/share/code/resources/app/node_modules.asar.unpacked/spdlog/build/Release/spdlog.node'. This is deprecated, see https://github.com/electron/electron/issues/18397.
+[90m[main 2021-02-25T00:14:07.007Z][0m update#setState checking for updates
+[90m[main 2021-02-25T00:14:07.094Z][0m update#setState idle
+[5958:0224/183502.674972:ERROR:gl_utils.cc(314)] [.RendererMainThread-0x1f1ae8bd8c00] GL_INVALID_FRAMEBUFFER_OPERATION: Draw framebuffer is incomplete
+[90m[main 2021-02-25T01:14:07.011Z][0m update#setState checking for updates
+[90m[main 2021-02-25T01:14:07.377Z][0m update#setState idle
+[90m[main 2021-02-25T02:14:07.014Z][0m update#setState checking for updates
+[90m[main 2021-02-25T02:14:07.385Z][0m update#setState idle
